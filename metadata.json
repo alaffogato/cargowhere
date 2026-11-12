@@ -1,0 +1,6 @@
+{
+  "name": "SG Carpark Live",
+  "description": "Singapore real-time carpark availability, EPS parking rates, EV charging, and occupancy trends across HDB, URA, and commercial carparks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
